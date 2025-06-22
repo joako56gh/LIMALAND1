@@ -37,7 +37,29 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "",
+    "DialogText": "  
+  
+ PARA ESTAR EN ESTE MARAVILLOSO MUNDO HAY CIERTOS REQUISITOS QUE DEBES CUMPLIR 
+ DE LO CONTRARIO SI NO LO CUMPLES SE TE OTORGARAN LOS CASTIGOS O SANSIONES CORRESPONDIENTES(BANEO)                           
+
+
+
+                                                                                  REGLAS
+
+
+           1- LOS JUGADORES NO PUEDEN ENTRAR A UNA CASA SIN EL CONSENTIMIENTO DEL DUEÑO
+           
+           2- NO PUEDEN TOCAR NI DESTRUIR NINGUN BLOQUE  DE UNA CASA O PROPIEDAD AGENA
+           
+           3- NO ENTRAR A CUENTAS DE OTROS 
+           
+           4- NO ROMPER NADA DE LA ALDEA 
+            
+           5- NO MATAR A LA MASCOTA DE NADIE
+           
+           6- NO ENTRAR Y ROBAR LAS CASAS
+           
+           7- NO ES UN SERVER PVP",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -54,7 +76,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1750625117969L,
+        "TimePast": 1750625537919L,
         "Time": 0L,
         "Subject": ""
     }

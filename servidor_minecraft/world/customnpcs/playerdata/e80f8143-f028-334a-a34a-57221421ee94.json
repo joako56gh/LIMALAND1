@@ -29,6 +29,12 @@
         },
         {
             "Dialog": 3
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
         }
     ],
     "ItemGiverChained": [
