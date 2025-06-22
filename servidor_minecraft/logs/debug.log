@@ -7409,3 +7409,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 20:56:58.551] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
 [22Jun2025 20:56:58.553] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [22Jun2025 20:56:58.575] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Jun2025 21:00:44.220] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO lost connection: Disconnected
+[22Jun2025 21:00:44.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO left the game
+[22Jun2025 21:00:44.223] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding JOA_KINGSITO data
+[22Jun2025 21:00:44.223] [Thread-186/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing JOA_KINGSITO data
+[22Jun2025 21:00:44.225] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JOA_KINGSITO
+[22Jun2025 21:00:44.225] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO
+[22Jun2025 21:00:44.280] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e80f8143-f028-334a-a34a-57221421ee94 does not have a secret
+[22Jun2025 21:00:44.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e80f8143-f028-334a-a34a-57221421ee94 does not have a secret
+[22Jun2025 21:00:44.448] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e80f8143-f028-334a-a34a-57221421ee94 does not have a secret
+[22Jun2025 21:01:58.519] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:01:58.520] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:01:58.520] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:01:58.522] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jun2025 21:01:58.546] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Jun2025 21:06:58.518] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:06:58.518] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:06:58.519] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:06:58.520] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jun2025 21:06:58.542] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Jun2025 21:11:58.518] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:11:58.519] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:11:58.520] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:11:58.521] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jun2025 21:11:58.546] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Jun2025 21:16:58.518] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:16:58.519] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:16:58.520] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Jun2025 21:16:58.521] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Jun2025 21:16:58.544] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

@@ -2579,3 +2579,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 18:31:47.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set the time to 13000]
 [22Jun2025 18:41:58.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Suit Up]
 [22Jun2025 19:49:25.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 394 blocks]
+[22Jun2025 21:00:44.220] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO lost connection: Disconnected
+[22Jun2025 21:00:44.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO left the game
+[22Jun2025 21:00:44.225] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO
