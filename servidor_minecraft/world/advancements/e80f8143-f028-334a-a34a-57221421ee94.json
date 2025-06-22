@@ -3997,6 +3997,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_plank": "2025-06-22 19:47:12 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/aspen_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-22 17:27:38 +0000"

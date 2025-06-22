@@ -2578,3 +2578,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 18:20:39.840] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO moved too quickly! 3.6663111885489457,3.4895810828164997,-9.083832816238555
 [22Jun2025 18:31:47.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set the time to 13000]
 [22Jun2025 18:41:58.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Suit Up]
+[22Jun2025 19:49:25.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 394 blocks]
