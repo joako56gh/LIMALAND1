@@ -420,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-06-22 18:41:58 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/cat_wall_deco_1": {
     "criteria": {
       "has_planks": "2025-06-22 17:27:40 +0000"
@@ -627,6 +633,12 @@
   "smallships:recipes/lotr_charred_galley": {
     "criteria": {
       "in_water": "2025-06-22 18:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-22 18:41:20 +0000"
     },
     "done": true
   },
@@ -1082,6 +1094,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 18:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 17:27:40 +0000"
@@ -1316,6 +1340,12 @@
   "mcwbyg:recipes/palm_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-22 17:27:40 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_item": "2025-06-22 18:35:20 +0000"
     },
     "done": true
   },
@@ -2801,6 +2831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/hay_wheelbarrow": {
     "criteria": {
       "has_planks": "2025-06-22 17:27:40 +0000"
@@ -2852,6 +2888,12 @@
   "smallships:recipes/spruce_brigg": {
     "criteria": {
       "in_water": "2025-06-22 18:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
     },
     "done": true
   },
@@ -3132,6 +3174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_brigg": {
     "criteria": {
       "in_water": "2025-06-22 18:20:17 +0000"
@@ -3371,6 +3419,12 @@
   "mcwbyg:recipes/cypress_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-22 17:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
     },
     "done": true
   },
@@ -4768,6 +4822,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/oak_support": {
+    "criteria": {
+      "has_plank": "2025-06-22 18:35:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-22 17:59:27 +0000"
@@ -5264,6 +5324,12 @@
   "mcwpaths:recipes/diorite": {
     "criteria": {
       "has_wood": "2025-06-22 17:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
     },
     "done": true
   },
@@ -6263,6 +6329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 17:27:39 +0000"
@@ -6321,6 +6393,12 @@
   "mcwbyg:recipes/redwood_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 17:27:40 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-06-22 18:35:20 +0000"
     },
     "done": true
   },
@@ -6508,6 +6586,12 @@
   "mcwbyg:recipes/willow_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-22 17:27:38 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/oak_seat": {
+    "criteria": {
+      "has_plank": "2025-06-22 18:35:20 +0000"
     },
     "done": true
   },
@@ -6761,6 +6845,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-22 17:27:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-06-22 18:35:20 +0000"
     },
     "done": true
   },
@@ -7318,6 +7408,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-06-22 18:35:20 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/cika_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-22 17:27:39 +0000"
@@ -7471,6 +7567,12 @@
   "mcwbyg:recipes/aspen_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-22 17:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
     },
     "done": true
   },
@@ -8063,6 +8165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_brigg": {
     "criteria": {
       "in_water": "2025-06-22 18:20:17 +0000"
@@ -8270,6 +8378,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-22 17:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:35:20 +0000"
     },
     "done": true
   },
@@ -9441,6 +9555,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "has_item": "2025-06-22 18:35:20 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/cherry_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 17:27:40 +0000"
@@ -9504,6 +9624,12 @@
   "mcwbyg:recipes/skyris_roofs": {
     "criteria": {
       "has_planks": "2025-06-22 17:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-22 18:41:20 +0000"
     },
     "done": true
   },

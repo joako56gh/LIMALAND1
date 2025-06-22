@@ -2576,3 +2576,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 18:20:10.876] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-465, y=22, z=-2396}
 [22Jun2025 18:20:10.877] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-472, y=22, z=-2393}
 [22Jun2025 18:20:39.840] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO moved too quickly! 3.6663111885489457,3.4895810828164997,-9.083832816238555
+[22Jun2025 18:31:47.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set the time to 13000]
+[22Jun2025 18:41:58.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Suit Up]
