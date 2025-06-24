@@ -2177,6 +2177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-24 22:29:16 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/mangrove_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -8676,6 +8682,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2025-06-24 22:29:16 +0000"
     },
     "done": true
   },
