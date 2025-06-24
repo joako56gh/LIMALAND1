@@ -2584,3 +2584,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jun2025 22:04:58.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Dragonslayer]
 [24Jun2025 22:05:42.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Gave 1 [Structure Block] to JOA_KINGSITO]
 [24Jun2025 22:12:48.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 3946 blocks]
+[24Jun2025 22:22:06.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 1181 blocks]

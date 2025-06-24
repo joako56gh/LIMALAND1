@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/holly_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
@@ -170,6 +176,12 @@
   "mcwbyg:recipes/rope_redwood_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -525,6 +537,12 @@
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
     },
     "done": true
   },
@@ -1344,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -1396,6 +1420,12 @@
   "mcwbyg:recipes/cypress_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
     },
     "done": true
   },
@@ -1725,6 +1755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -1752,6 +1788,12 @@
   "mcwbyg:recipes/aspen_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -1866,6 +1908,12 @@
   "mcwbyg:recipes/cryptic_stone_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -2430,6 +2478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_mahogany_dhow": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -2685,6 +2739,12 @@
   "mcwbyg:recipes/zelkova_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -3352,6 +3412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cypress_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -3442,6 +3508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/nightshade_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -3483,6 +3555,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -3747,6 +3825,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -4389,6 +4473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/pumpkin_doormat": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -4815,6 +4905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/blue_enchanted_stairs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -5121,6 +5217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/rope_nightshade_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -5361,6 +5463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-24 22:14:52 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/palm_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
@@ -5376,6 +5484,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_item": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -5436,6 +5550,12 @@
   "mcwbyg:recipes/redwood_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -6344,6 +6464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -6365,6 +6491,12 @@
   "mcwbyg:recipes/fir_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -6710,6 +6842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mallorn_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -6991,6 +7129,12 @@
   "mcwbyg:recipes/zelkova_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
     },
     "done": true
   },
@@ -7306,6 +7450,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/redwood_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -7579,6 +7729,12 @@
   "mcwbyg:recipes/palm_furnitures": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -8873,6 +9029,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_plank": "2025-06-24 22:14:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_umbran_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -9860,6 +10022,12 @@
   "smallships:recipes/lotr_cedar_war_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
