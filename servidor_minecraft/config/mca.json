@@ -103,7 +103,7 @@
   "allowDestinyCommandMoreThanOnce": false,
   "allowDestinyTeleportation": false,
   "enablePlayerShaders": true,
-  "enableVillagerPlayerModel": false,
+  "enableVillagerPlayerModel": true,
   "forceVillagerPlayerModel": false,
   "allowLimitedPlayerEditor": true,
   "allowFullPlayerEditor": false,
