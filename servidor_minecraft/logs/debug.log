@@ -7269,3 +7269,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jun2025 22:43:20.264] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
 [24Jun2025 22:43:20.265] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Jun2025 22:43:20.286] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jun2025 22:48:20.262] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:48:20.263] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:48:20.263] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:48:20.265] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:48:20.285] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jun2025 22:52:45.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO is bleeding...
+[24Jun2025 22:52:45.539] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO was canceled by another mod
+[24Jun2025 22:52:45.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Killed JOA_KINGSITO]
+[24Jun2025 22:52:45.543] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO has successfully been saved
+[24Jun2025 22:52:50.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO fell out of the world
+[24Jun2025 22:52:50.234] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO was created at position [x:907, y:65, z:1843, dim:minecraft:overworld]
+[24Jun2025 22:53:20.263] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:53:20.264] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:53:20.266] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:53:20.267] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:53:20.291] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jun2025 22:54:39.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 11003 blocks]
+[24Jun2025 22:55:14.205] [Server thread/DEBUG] [mixin/]: Mixing MixinRailShape from framedblocks.mixin.json into net.minecraft.block.RailState

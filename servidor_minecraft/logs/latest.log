@@ -2594,3 +2594,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jun2025 22:35:58.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO fell out of the world
 [24Jun2025 22:35:58.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Your First Grave]
 [24Jun2025 22:36:10.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Gamerule spawnRadius is now set to: 0]
+[24Jun2025 22:52:45.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO is bleeding...
+[24Jun2025 22:52:45.539] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO was canceled by another mod
+[24Jun2025 22:52:45.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Killed JOA_KINGSITO]
+[24Jun2025 22:52:45.543] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO has successfully been saved
+[24Jun2025 22:52:50.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO fell out of the world
+[24Jun2025 22:54:39.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 11003 blocks]

@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-24 22:43:28 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/witch_hat": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
@@ -303,6 +309,12 @@
   "mcwbyg:recipes/rope_palm_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-24 22:43:28 +0000"
     },
     "done": true
   },
@@ -665,6 +677,12 @@
   "mcwbyg:recipes/scoria_stone_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-24 22:43:28 +0000"
     },
     "done": true
   },
@@ -9500,6 +9518,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-24 22:43:28 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -9515,6 +9539,12 @@
   "mcwbyg:recipes/jacaranda_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-24 22:43:28 +0000"
     },
     "done": true
   },
@@ -9862,6 +9892,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-24 22:43:28 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
@@ -10061,6 +10097,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-24 22:43:28 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:23 +0000"
@@ -10118,6 +10160,12 @@
   "mcwbyg:recipes/mahogany_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-24 22:43:28 +0000"
     },
     "done": true
   },
