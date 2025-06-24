@@ -5403,6 +5403,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-06-24 23:05:51 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_tropical": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"

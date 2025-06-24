@@ -7308,3 +7308,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jun2025 23:03:20.270] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24Jun2025 23:03:52.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 4510 blocks]
 [24Jun2025 23:06:19.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 1001 blocks]
+[24Jun2025 23:07:18.421] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO lost connection: Disconnected
+[24Jun2025 23:07:18.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO left the game
+[24Jun2025 23:07:18.424] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding JOA_KINGSITO data
+[24Jun2025 23:07:18.424] [Thread-87/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing JOA_KINGSITO data
+[24Jun2025 23:07:18.426] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JOA_KINGSITO
+[24Jun2025 23:07:18.427] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO
+[24Jun2025 23:07:18.453] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e80f8143-f028-334a-a34a-57221421ee94 does not have a secret
+[24Jun2025 23:07:39.066] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[24Jun2025 23:07:39.104] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 23:07:39.105] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding data
+[24Jun2025 23:07:39.105] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[24Jun2025 23:07:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jun2025 23:07:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jun2025 23:07:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jun2025 23:07:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jun2025 23:07:39.110] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 23:07:40.286] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jun2025 23:07:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jun2025 23:07:40.287] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 23:07:40.287] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jun2025 23:07:40.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jun2025 23:07:40.287] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 23:07:40.288] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jun2025 23:07:40.288] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jun2025 23:07:40.309] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jun2025 23:07:40.365] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jun2025 23:07:40.398] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jun2025 23:07:40.398] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jun2025 23:07:40.400] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[24Jun2025 23:07:40.400] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[24Jun2025 23:07:40.401] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file hexerei-server.toml changed, sending notifies
