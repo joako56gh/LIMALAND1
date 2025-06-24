@@ -7259,3 +7259,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jun2025 22:35:58.549] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO was created at position [x:904, y:65, z:1839, dim:minecraft:overworld]
 [24Jun2025 22:35:58.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Your First Grave]
 [24Jun2025 22:36:10.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Gamerule spawnRadius is now set to: 0]
+[24Jun2025 22:38:20.265] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:38:20.265] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:38:20.266] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:38:20.267] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:38:20.291] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jun2025 22:43:20.263] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:43:20.263] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:43:20.264] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:43:20.265] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:43:20.286] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
