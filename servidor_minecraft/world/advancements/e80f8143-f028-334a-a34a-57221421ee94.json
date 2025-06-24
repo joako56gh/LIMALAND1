@@ -1242,6 +1242,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_item": "2025-06-24 22:55:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:22 +0000"
@@ -1608,6 +1614,12 @@
   "mcwbyg:recipes/skyris_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_warped": {
+    "criteria": {
+      "has_plank": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -2538,6 +2550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/hay_wheelbarrow": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
@@ -2577,6 +2595,12 @@
   "smallships:recipes/spruce_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -2787,6 +2811,12 @@
   "mcwbyg:recipes/cherry_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -4322,6 +4352,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/warped_support": {
+    "criteria": {
+      "has_plank": "2025-06-24 22:55:22 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/aspen_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -4391,6 +4427,12 @@
   "smallships:recipes/bop_fir_rowboat": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_plank": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -4497,6 +4539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:22 +0000"
@@ -4545,6 +4593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/mahogany_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
@@ -4554,6 +4608,12 @@
   "mcwbyg:recipes/rainbow_eucalyptus_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -4638,6 +4698,12 @@
   "mcwbyg:recipes/lament_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -5046,6 +5112,12 @@
   "mcwbyg:recipes/zelkova_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -5565,6 +5637,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/warped_seat": {
+    "criteria": {
+      "has_plank": "2025-06-24 22:55:22 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_rowboat": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -5742,6 +5820,12 @@
   "mcwbyg:recipes/redwood_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -6896,6 +6980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/acacia_war_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -7699,6 +7789,12 @@
   "mcwbyg:recipes/maple_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -8593,6 +8689,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "has_item": "2025-06-24 22:55:22 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/cherry_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
@@ -8638,6 +8740,12 @@
   "mcwbyg:recipes/skyris_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },

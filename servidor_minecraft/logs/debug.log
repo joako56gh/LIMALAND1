@@ -7287,3 +7287,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jun2025 22:53:20.291] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24Jun2025 22:54:39.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 11003 blocks]
 [24Jun2025 22:55:14.205] [Server thread/DEBUG] [mixin/]: Mixing MixinRailShape from framedblocks.mixin.json into net.minecraft.block.RailState
+[24Jun2025 22:57:05.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17f7n2kfjl0am]: started parsing
+[24Jun2025 22:57:05.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17f7n2kfjl0am]: Finished looking at arguments. Finalizing command.
+[24Jun2025 22:57:23.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1asvwcfcnqn38]: started parsing
+[24Jun2025 22:57:23.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1asvwcfcnqn38]: Finished looking at arguments. Finalizing command.
+[24Jun2025 22:58:20.248] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:58:20.248] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:58:20.249] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 22:58:20.250] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:58:20.273] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jun2025 22:58:43.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 3002 blocks]
+[24Jun2025 22:58:57.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 15 blocks]
+[24Jun2025 23:00:19.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 1619 blocks]
+[24Jun2025 23:00:55.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 248 blocks]
+[24Jun2025 23:01:02.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 3 blocks]
+[24Jun2025 23:03:20.248] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 23:03:20.248] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 23:03:20.249] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[24Jun2025 23:03:20.250] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Jun2025 23:03:20.270] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Jun2025 23:03:52.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 4510 blocks]
+[24Jun2025 23:06:19.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 1001 blocks]
