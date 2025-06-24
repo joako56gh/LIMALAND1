@@ -1,3 +1,20 @@
+tweaks = {}
+
+#entities parameters
+[entities]
+
+	[entities.firefly]
+		#firefly animation period
+		#note that actual period will be this + a random number between 0 and 10
+		#this needs to be here to allow correct despawning of the entity when it's not glowing
+		#check client configs come more animation settings
+		#Range: 1 ~ 200
+		period = 65
+		#despawn during the day
+		despawn = true
+		#firefly flying speed
+		#Range: 0.0 ~ 10.0
+		speed = 0.3
 
 #Server side blocks configs
 [blocks]
@@ -189,179 +206,4 @@
 			#Minimum distance apart in chunks between spawn attempts. 1001 to disable them entirely
 			#Range: 0 ~ 1001
 			minimum_distance = 10
-
-#entities parameters
-[entities]
-
-	[entities.firefly]
-		#firefly animation period
-		#note that actual period will be this + a random number between 0 and 10
-		#this needs to be here to allow correct despawning of the entity when it's not glowing
-		#check client configs come more animation settings
-		#Range: 1 ~ 200
-		period = 65
-		#despawn during the day
-		despawn = true
-		#firefly flying speed
-		#Range: 0.0 ~ 10.0
-		speed = 0.3
-
-#Vanilla tweaks
-[tweaks]
-
-	[tweaks.wall_lantern]
-		#Mod ids of mods that have lantern block that extend the base lantern class but don't look like one
-		mod_blacklist = ["extlights", "betterendforge", "tconstruct"]
-		#Allow wall lanterns placement
-		enabled = true
-		#Gives high priority to wall lantern placement. Enable to override other wall lanterns placements, disable if it causes issues with other mods that use lower priority block click events
-		high_priority = true
-
-	[tweaks.zombie_horse]
-		#Amount of rotten flesh needed
-		#Range: 1 ~ 1000
-		rotten_flesh = 64
-		#Allows zombie horses to be ridden underwater
-		rideable_underwater = true
-		#Feed a stack of rotten flesh to a skeleton horse to buff him up to a zombie horse
-		zombie_horse_conversion = true
-
-	[tweaks.placeable_gunpowder]
-		#Allow placeable gunpowder
-		enabled = true
-		#Number of ticks it takes for gunpowder to burn 1 stage (out of 8). Increase to slow it down
-		#Range: 0 ~ 20
-		speed = 2
-		#Age at which it spread to the next gunpowder block. Also affects speed
-		#Range: 0 ~ 8
-		spread_age = 2
-
-	[tweaks.hanging_flower_pots]
-		#allows you to place hanging flower pots. Works with any modded pot too
-		enabled = true
-
-	[tweaks.placeable_sticks]
-		#Allow placeable sticks
-		sticks = true
-		#Allow placeable blaze rods
-		blaze_rods = true
-
-	[tweaks.bottle_xp]
-		#bottling health cost
-		#Range: 0 ~ 20
-		cost = 2
-		#Allow bottling up xp by using a bottle on an enchanting table
-		enabled = true
-
-	[tweaks.bells_tweaks]
-		#Ring a bell by clicking on a chain that's connected to it
-		chain_ringing = true
-		#Max chain length that allows a bell to ring
-		#Range: 0 ~ 256
-		chain_length = 16
-
-	[tweaks.ceiling_banners]
-		#Allow banners to be placed on ceilings
-		enabled = true
-
-	[tweaks.throwable_bricks]
-		#Throw bricks at your foes! Might break glass blocks
-		enabled = true
-
-	[tweaks.raked_gravel]
-		#allow gravel to be raked with a hoe
-		enabled = true
-
-	[tweaks.cake_tweaks]
-		#Allows you to place a cake on top of another
-		double_cake = true
-		#Replaces normal cake placement with a directional one
-		directional_cake = true
-
-	[tweaks.placeable_books]
-		#Allows written books to be placeable (will need shift clicking)
-		written_books = false
-		#Allow all books to be placed both vertically and horizontally
-		mixed_books = false
-		#Enchantment power bonus given by normal book piles with 4 books. Piles with less books will have their respective fraction of this total. For reference a vanilla bookshelf provides 1
-		#Range: 0.0 ~ 5.0
-		enchanted_book_power = 1.334
-		#Allow books and enchanted books to be placed on the ground
-		enabled = true
-		#Enchantment power bonus given by normal book piles with 4 books. Piles with less books will have their respective fraction of this total. For reference a vanilla bookshelf provides 1
-		#Range: 0.0 ~ 5.0
-		book_power = 1.0
-
-	[tweaks.map_tweaks]
-		#In this section you can add custom structure maps to cartographers
-		#The format required is as follows:
-		#[[<structure>,<level>,<min_price>,<max_price>,<map_name>,<map_color>,<map_marker>],[<structure>,...,<map_marker>],...]
-		#With the following parameters:
-		# - <structure> structure id to be located (ie: minecraft:igloo)
-		# - <level> villager trading level at which the map will be sold. Must be between 1 and 5
-		# - <min_price> minimum emerald price
-		# - <max_price> maximum emerald price
-		# - <map_name> map item name
-		# - <map_color> hex color of the map item overlay texture
-		# - <map_marker> id of the map marker to be used (ie: supplementaries:igloo). 
-		#See texture folder for all the names. Leave empty for default ones
-		#Note that ony the first parameter is required, each of the others others can me removed and will be defaulted to reasonable values
-		#example: ['minecraft:swamp_hut','2','5','7','witch hut map','0x00ff33']
-		custom_adventurer_maps = [[""]]
-		#enables beacons, lodestones, respawn anchors, beds, conduits, portals to be displayed on maps by clicking one of them with a map
-		block_map_markers = true
-		#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (choosen from a thought out preset list).
-		#Best kept disabled if you are adding custom adventurer maps with its config
-		random_adventurer_maps = true
-
-[items]
-
-	[items.flute]
-		#max distance at which a bound flute will allow a pet to teleport
-		#Range: 0 ~ 500
-		bound_distance = 64
-		#radius in which an unbound flute will search pets
-		#Range: 0 ~ 500
-		unbound_radius = 64
-
-	[items.slingshot]
-		#Deceleration for the stasis projectile
-		#Range: 0.1 ~ 1.0
-		stasis_deceleration = 0.9625
-		#Slingshot range multiplier. Affect the initial projectile speed
-		#Range: 0.0 ~ 5.0
-		range_multiplier = 1.0
-		#Allow enderman to intercept any slingshot projectile
-		unrestricted_enderman_intercept = true
-		#Time in ticks to fully charge a slingshot
-		#Range: 0 ~ 100
-		charge_time = 20
-
-	[items.blue_bomb]
-		#Do bombs break blocks like tnt?
-		#Allowed Values: ALL, WEAK, NONE
-		break_blocks = "WEAK"
-		#Bomb explosion radius (damage depends on this)
-		#Range: 0.1 ~ 10.0
-		explosion_radius = 5.15
-
-	[items.bomb]
-		#Do bombs break blocks like tnt?
-		#Allowed Values: ALL, WEAK, NONE
-		break_blocks = "WEAK"
-		#Bomb explosion radius (damage depends on this)
-		#Range: 0.1 ~ 10.0
-		explosion_radius = 2.0
-
-	[items.rope_arrow]
-		#If you don't like my ropes you can specify here the block id ofa rope from another mod which will get deployed by rope arrows instead of mine
-		rope_arrow_override = "supplementaries:rope"
-		#Max number of robe items allowed to be stored inside a rope arrow
-		#Range: 1 ~ 256
-		capacity = 24
-
-#General settings
-[general]
-	#Turn this on to disable any interaction on blocks placed by other players. This affects item shelves, signs, flower pots, and boards. Useful for protected servers. Note that it will affect only blocks placed after this is turned on and such blocks will keep being protected after this option is disabled
-	server_protection = false
 
