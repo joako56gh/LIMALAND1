@@ -2583,3 +2583,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jun2025 22:03:35.034] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO moved too quickly! 8.839228466211694,0.0,6.358006399635542
 [24Jun2025 22:04:58.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Dragonslayer]
 [24Jun2025 22:05:42.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Gave 1 [Structure Block] to JOA_KINGSITO]
+[24Jun2025 22:12:48.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 3946 blocks]
