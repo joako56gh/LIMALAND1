@@ -2561,3 +2561,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 22:03:31.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e80f8143-f028-334a-a34a-57221421ee94
 [25Jun2025 22:03:32.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e80f8143-f028-334a-a34a-57221421ee94
 [25Jun2025 22:03:32.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO (e80f8143-f028-334a-a34a-57221421ee94) successfully connected to voice chat
+[25Jun2025 22:11:12.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Survival Mode]
+[25Jun2025 22:11:47.444] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=966, y=62, z=1737} BlockPos{x=965, y=61, z=1736}
+[25Jun2025 22:12:59.752] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO was kicked for floating too long!
+[25Jun2025 22:12:59.754] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO lost connection: Flying is not enabled on this server
+[25Jun2025 22:12:59.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO left the game
+[25Jun2025 22:12:59.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO
+[25Jun2025 22:12:59.814] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[25Jun2025 22:13:17.277] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6904a355
+[25Jun2025 22:13:17.331] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JOA_KINGSITO[/127.37.118.126:49221] logged in with entity id 1836 at (968.6535797634656, 61.7967356006687, 1753.4880885015805)
+[25Jun2025 22:13:17.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO joined the game
+[25Jun2025 22:13:17.378] [Server thread/INFO] [Waila/]: Syncing config to JOA_KINGSITO (e80f8143-f028-334a-a34a-57221421ee94)
+[25Jun2025 22:13:18.426] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JOA_KINGSITO (18)
+[25Jun2025 22:13:18.428] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO
+[25Jun2025 22:13:22.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e80f8143-f028-334a-a34a-57221421ee94
+[25Jun2025 22:13:23.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e80f8143-f028-334a-a34a-57221421ee94
+[25Jun2025 22:13:23.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO (e80f8143-f028-334a-a34a-57221421ee94) successfully connected to voice chat
+[25Jun2025 22:13:45.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Creative Mode]
+[25Jun2025 22:14:11.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 959 blocks]
+[25Jun2025 22:18:30.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Successfully filled 1362 blocks]
