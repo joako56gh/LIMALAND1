@@ -1,0 +1,79 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+    ],
+    "AvailabilityScoreboardType": 1,
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityScoreboard2Value": 1,
+    "DialogId": 5,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 1,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "reglass",
+    "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 1,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Reglas Oficiales de LimaLand
+
+1. PvP solo con consentimiento
+Puedes pelear con otros jugadores, pero solo si ambos están de acuerdo.
+
+2. Bromas sí, pero con límites
+Las travesuras están permitidas, pero deben ser divertidas y reversibles. Nada de destruir casas, robar cofres o hacer daño real a los progresos de otros.
+
+3. No al griefing ni al robo
+Está prohibido destruir construcciones ajenas, robar cofres, matar animales o dañar cultivos de otros jugadores sin permiso.
+
+4. Usa mods y comandos permitidos
+Solo se permite el uso de los mods, datapacks y comandos que el servidor ha autorizado. Hacks, exploits o mods injustos resultarán en sanción inmediata.
+
+5. Construcciones responsables
+No dejes estructuras flotantes, agujeros enormes sin tapar ni construcciones fuera de lugar que arruinen el entorno. Mantén el mundo limpio y estético.
+
+6. Roleo opcional pero respetado
+Si un jugador está roleando (actuando como su personaje), respeta ese espacio. No interrumpas escenas ni arruines momentos intencionalmente.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1750893562203L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}
