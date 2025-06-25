@@ -2557,3 +2557,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 04:31:19.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e80f8143-f028-334a-a34a-57221421ee94
 [25Jun2025 04:31:19.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO (e80f8143-f028-334a-a34a-57221421ee94) successfully connected to voice chat
 [25Jun2025 04:31:23.150] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO moved too quickly! 1.1729651950322477,-10.012732618399056,-0.741906145898156
+[25Jun2025 04:42:16.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Ice Bucket Challenge]
+[25Jun2025 04:42:19.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Acquire Hardware]
+[25Jun2025 04:42:19.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Suit Up]
+[25Jun2025 04:43:11.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Monster Hunter]
+[25Jun2025 04:43:22.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO is bleeding...
+[25Jun2025 04:43:22.614] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO was canceled by another mod
+[25Jun2025 04:43:22.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Killed JOA_KINGSITO]
+[25Jun2025 04:43:22.625] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO has successfully been saved
+[25Jun2025 04:43:27.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO fell out of the world
+[25Jun2025 04:44:54.423] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO lost connection: Disconnected
+[25Jun2025 04:44:54.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO left the game
+[25Jun2025 04:44:54.429] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO
+[25Jun2025 04:44:58.820] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[25Jun2025 04:44:58.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jun2025 04:44:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jun2025 04:44:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jun2025 04:44:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jun2025 04:45:00.011] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jun2025 04:45:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jun2025 04:45:00.013] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jun2025 04:45:00.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jun2025 04:45:00.013] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jun2025 04:45:00.098] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jun2025 04:45:00.115] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jun2025 04:45:00.115] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

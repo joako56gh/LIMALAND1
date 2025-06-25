@@ -7163,3 +7163,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 04:35:15.138] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Jun2025 04:35:15.166] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [25Jun2025 04:37:02.354] [Worker-Main-3/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[25Jun2025 04:40:15.106] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 04:40:15.106] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 04:40:15.109] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 04:40:15.111] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 04:40:15.137] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 04:42:16.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Ice Bucket Challenge]
+[25Jun2025 04:42:19.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Acquire Hardware]
+[25Jun2025 04:42:19.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Suit Up]
+[25Jun2025 04:43:11.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Monster Hunter]
+[25Jun2025 04:43:22.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO is bleeding...
+[25Jun2025 04:43:22.614] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO was canceled by another mod
+[25Jun2025 04:43:22.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Killed JOA_KINGSITO]
+[25Jun2025 04:43:22.625] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO has successfully been saved
+[25Jun2025 04:43:27.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO fell out of the world
+[25Jun2025 04:43:27.081] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO was created at position [x:903, y:65, z:1839, dim:minecraft:overworld]
+[25Jun2025 04:44:54.423] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO lost connection: Disconnected
+[25Jun2025 04:44:54.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO left the game
+[25Jun2025 04:44:54.426] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding JOA_KINGSITO data
+[25Jun2025 04:44:54.426] [Thread-48/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing JOA_KINGSITO data
+[25Jun2025 04:44:54.428] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JOA_KINGSITO
+[25Jun2025 04:44:54.429] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO
+[25Jun2025 04:44:58.820] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[25Jun2025 04:44:58.856] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 04:44:58.857] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding data
+[25Jun2025 04:44:58.857] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[25Jun2025 04:44:58.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jun2025 04:44:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jun2025 04:44:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jun2025 04:44:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jun2025 04:44:58.865] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 04:45:00.011] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jun2025 04:45:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jun2025 04:45:00.012] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 04:45:00.013] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jun2025 04:45:00.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jun2025 04:45:00.013] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 04:45:00.013] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jun2025 04:45:00.014] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 04:45:00.046] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 04:45:00.098] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jun2025 04:45:00.115] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jun2025 04:45:00.115] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jun2025 04:45:00.118] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[25Jun2025 04:45:00.118] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[25Jun2025 04:45:00.118] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file hexerei-server.toml changed, sending notifies
+[25Jun2025 04:45:00.119] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file hexerei-server.toml changed, sending notifies

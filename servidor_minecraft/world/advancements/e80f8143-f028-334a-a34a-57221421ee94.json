@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/polished_travertine_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/red_rock_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
@@ -318,6 +330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/zelkova_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -366,6 +384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -393,6 +417,18 @@
   "mcwpaths:recipes/warped": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/red_rock_fences": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -492,6 +528,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/sail_item": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -531,6 +573,12 @@
   "mcwbyg:recipes/blue_enchanted_paths": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-06-25 04:40:02 +0000"
     },
     "done": true
   },
@@ -576,6 +624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-06-24 21:59:24 +0000"
@@ -610,6 +664,12 @@
   "mcwfurnitures:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -986,6 +1046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/blue_enchanted_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -1023,6 +1089,12 @@
     },
     "done": true
   },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -1050,6 +1122,12 @@
   "mcwbyg:recipes/zelkova_stairs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -1189,6 +1267,12 @@
   "mcwbyg:recipes/aspen_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/scoria_stone_fences": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -1332,9 +1416,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/jacaranda_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -1392,6 +1488,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/purpur_stone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -1401,6 +1503,12 @@
   "smallships:recipes/lotr_larch_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/dacite_fences": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -1438,6 +1546,12 @@
   "mcwroofs:recipes/jungle_planks": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -1509,6 +1623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/willow_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -1533,9 +1653,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_hellbark_rowboat": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -1581,6 +1713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/imparius_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -1590,6 +1728,12 @@
   "mcwbyg:recipes/cherry_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "has_item": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -1608,6 +1752,12 @@
   "mcwbyg:recipes/bulbis_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -1632,6 +1782,12 @@
   "mcwbyg:recipes/mahogany_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -1755,6 +1911,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "has_plank": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-25 04:42:25 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/bulbis_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -1854,6 +2022,12 @@
   "mcwbridges:recipes/crimson_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -1977,6 +2151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/dacite_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -2034,6 +2214,12 @@
   "mcwbyg:recipes/maple_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/floor_trap": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -2118,6 +2304,12 @@
   "mcwbyg:recipes/holly_windows": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -2240,6 +2432,12 @@
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -2441,6 +2639,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/outlined_cobweb": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -2475,6 +2679,12 @@
   "mcwbyg:recipes/cypress_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -2592,6 +2802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/spruce_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -2682,6 +2898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-25 04:42:25 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_redwood_drakkar": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -2709,6 +2931,12 @@
   "mcwbyg:recipes/fir_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 04:42:16 +0000"
     },
     "done": true
   },
@@ -2769,6 +2997,12 @@
   "mcwlights:recipes/redstone_slab": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/travertine_fences": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -2904,6 +3138,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/iron_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/aspen_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -2940,6 +3180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/balustrade_red_rock_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -2963,6 +3209,12 @@
       "has_logs": "2025-06-24 21:59:23 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-06-25 04:43:11 +0000"
+    },
+    "done": false
   },
   "mcwbyg:recipes/cypress_windows": {
     "criteria": {
@@ -3058,6 +3310,12 @@
   "mcwbyg:recipes/aspen_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -3292,6 +3550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
       "has_item": "2025-06-24 21:59:24 +0000"
@@ -3337,6 +3601,12 @@
   "mcwbyg:recipes/ebony_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_item": "2025-06-25 04:40:02 +0000"
     },
     "done": true
   },
@@ -3388,6 +3658,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_beech_rowboat": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -3421,6 +3697,12 @@
   "mcwbyg:recipes/sythian_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-25 04:42:16 +0000"
     },
     "done": true
   },
@@ -3472,6 +3754,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-06-24 22:21:58 +0000"
@@ -3499,6 +3787,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -3615,6 +3909,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -4021,6 +4321,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/holly_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
@@ -4115,6 +4421,12 @@
   "mcwbyg:recipes/maple_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -4526,6 +4838,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/fir_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
@@ -4644,6 +4968,24 @@
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-06-24 22:04:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -4818,6 +5160,12 @@
   "mcwholidays:recipes/lit_shocked_pumpkin": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_plank": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -5157,6 +5505,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lebethron_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -5229,6 +5583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/maple_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
@@ -5259,9 +5619,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/end_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -5397,6 +5769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -5430,6 +5808,12 @@
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -5508,6 +5892,12 @@
   "mcwbyg:recipes/imparius_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -5616,6 +6006,12 @@
   "mcwbyg:recipes/maple_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/copper_iron_chest": {
+    "criteria": {
+      "has_item": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -5775,6 +6171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
@@ -5851,6 +6253,12 @@
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000",
       "has_the_recipe": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/soapstone_fences": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -5986,6 +6394,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/bat_sleeping": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:22 +0000"
@@ -6056,6 +6470,12 @@
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -6192,6 +6612,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/half_cobweb": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -6276,6 +6702,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -6297,6 +6729,12 @@
   "mcwbridges:recipes/dark_oak_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -6372,6 +6810,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2025-06-25 04:40:02 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/maple_paths": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
@@ -6411,6 +6855,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -6504,6 +6954,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/rope_holly_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -6539,6 +6995,12 @@
     "criteria": {
       "has_wood": "2025-06-24 21:59:25 +0000",
       "has_the_recipe": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -6671,6 +7133,12 @@
   "mcwbyg:recipes/zelkova_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 04:42:16 +0000"
     },
     "done": true
   },
@@ -7013,6 +7481,12 @@
   "smallships:recipes/lotr_pear_rowboat": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -7480,6 +7954,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-25 04:42:16 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/baobab_furnitures": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
@@ -7636,6 +8116,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/prismarine_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -7693,6 +8179,12 @@
   "mcwbyg:recipes/imparius_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -7858,6 +8350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/pine_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
@@ -7933,6 +8431,12 @@
   "mcwtrpdoors:recipes/crimson/crimson_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -8063,6 +8567,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/green_enchanted_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -8085,6 +8595,12 @@
   "mcwbyg:recipes/imparius_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -8115,6 +8631,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -8160,6 +8682,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/chain": {
+    "criteria": {
+      "has_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
@@ -8196,6 +8724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-24 22:04:58 +0000"
@@ -8229,6 +8763,12 @@
   "mcwbyg:recipes/mangrove_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -8587,6 +9127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/maple_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -8602,6 +9148,12 @@
   "mcwbyg:recipes/mahogany_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -8650,6 +9202,12 @@
   "mcwholidays:recipes/carved_shocked_pumpkin": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -8713,6 +9271,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/bar_panel": {
+    "criteria": {
+      "has_ingot": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-24 21:59:24 +0000"
@@ -8749,6 +9319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-06-24 22:55:22 +0000"
@@ -8767,6 +9343,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-06-25 04:43:11 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/lit_friendly_pumpkin": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
@@ -8776,6 +9358,12 @@
   "mcwbyg:recipes/cherry_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -9124,6 +9712,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/track_mine": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/sythian_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -9139,6 +9733,12 @@
   "mcwholidays:recipes/wooden_cross": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2025-06-25 04:40:02 +0000"
     },
     "done": true
   },
@@ -9194,6 +9794,12 @@
   "smallships:recipes/bop_umbran_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -9350,6 +9956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-25 04:43:11 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/cherry_furnitures": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
@@ -9371,6 +9983,12 @@
   "mcwbyg:recipes/palm_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
     },
     "done": true
   },
@@ -9431,6 +10049,12 @@
   "mcwbyg:recipes/rainbow_eucalyptus_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 04:42:16 +0000"
     },
     "done": true
   },
@@ -9662,6 +10286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -9713,6 +10343,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -10006,6 +10642,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2025-06-25 04:40:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-06-24 22:43:28 +0000"
@@ -10075,6 +10717,12 @@
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
@@ -10154,6 +10802,12 @@
   "mcwbyg:recipes/skyris_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-25 04:42:19 +0000"
     },
     "done": true
   },
