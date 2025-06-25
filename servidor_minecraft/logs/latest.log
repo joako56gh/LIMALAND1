@@ -2617,3 +2617,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 23:38:21.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e80f8143-f028-334a-a34a-57221421ee94
 [25Jun2025 23:38:22.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e80f8143-f028-334a-a34a-57221421ee94
 [25Jun2025 23:38:22.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO (e80f8143-f028-334a-a34a-57221421ee94) successfully connected to voice chat
+[25Jun2025 23:49:36.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Survival Mode]
+[25Jun2025 23:49:58.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Creative Mode]
+[25Jun2025 23:51:01.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Teleported JOA_KINGSITO to -2207.5, 64.0, -303.5]
+[25Jun2025 23:51:11.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3574ms or 71 ticks behind
+[25Jun2025 23:51:20.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Teleported JOA_KINGSITO to -2399.5, 66.54833209662279, -367.5]
+[25Jun2025 23:51:33.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Spectator Mode]
+[25Jun2025 23:51:42.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Creative Mode]

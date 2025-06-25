@@ -8263,3 +8263,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 23:38:22.902] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of JOA_KINGSITO to connected: {disabled=false, disconnected=false, uuid=e80f8143-f028-334a-a34a-57221421ee94, name=JOA_KINGSITO, group=null}
 [25Jun2025 23:38:22.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO (e80f8143-f028-334a-a34a-57221421ee94) successfully connected to voice chat
 [25Jun2025 23:38:23.098] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JOA_KINGSITO: {disabled=false, disconnected=false, uuid=e80f8143-f028-334a-a34a-57221421ee94, name=JOA_KINGSITO, group=null}
+[25Jun2025 23:42:48.277] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 23:42:48.278] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 23:42:48.278] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 23:42:48.279] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 23:42:48.299] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 23:47:48.286] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 23:47:48.288] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 23:47:48.290] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 23:47:48.291] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 23:47:48.317] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 23:49:36.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Survival Mode]
+[25Jun2025 23:49:58.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Creative Mode]
+[25Jun2025 23:51:01.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Teleported JOA_KINGSITO to -2207.5, 64.0, -303.5]
+[25Jun2025 23:51:11.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3574ms or 71 ticks behind
+[25Jun2025 23:51:20.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Teleported JOA_KINGSITO to -2399.5, 66.54833209662279, -367.5]
+[25Jun2025 23:51:33.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Spectator Mode]
+[25Jun2025 23:51:42.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Creative Mode]
