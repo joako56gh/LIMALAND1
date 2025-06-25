@@ -7551,3 +7551,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 22:48:44.565] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:45499
 [25Jun2025 22:48:49.581] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:45499
 [25Jun2025 22:48:54.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:45499
+[25Jun2025 22:52:48.280] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:52:48.281] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:52:48.281] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:52:48.282] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 22:52:48.301] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 22:56:19.919] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:51793
+[25Jun2025 22:56:30.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:51793
+[25Jun2025 22:56:35.447] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:51793
+[25Jun2025 22:56:56.608] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:53492
+[25Jun2025 22:56:57.445] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:53492
+[25Jun2025 22:56:57.454] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:53492
+[25Jun2025 22:56:57.641] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:53492
+[25Jun2025 22:57:07.179] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:53492
+[25Jun2025 22:57:48.279] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:57:48.279] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:57:48.280] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:57:48.281] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 22:57:48.300] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 23:00:15.119] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:40744
+[25Jun2025 23:00:19.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:40744
+[25Jun2025 23:00:24.929] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:40744
+[25Jun2025 23:01:04.179] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:32826
+[25Jun2025 23:01:08.279] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:32826
+[25Jun2025 23:01:09.830] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:32826
+[25Jun2025 23:01:31.040] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:53532
+[25Jun2025 23:01:34.633] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:53532
