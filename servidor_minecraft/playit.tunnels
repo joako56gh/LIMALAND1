@@ -9,16 +9,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "al-dragon.gl.joinmc.link",
-          "assigned_srv": "al-dragon.gl.joinmc.link",
+          "assigned_domain": "sellers-audi.gl.joinmc.link",
+          "assigned_srv": "sellers-audi.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "b648e8fd-c5f2-4eb6-a4cf-13f2759bc101",
+          "id": "53272649-048d-4272-b01a-db38cabdeab2",
           "ip_hostname": "29.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 40667,
-          "port_start": 40666,
+          "port_end": 46555,
+          "port_start": 46554,
           "region": "global",
           "static_ip4": "147.185.221.29",
           "static_ip6": "2602:fbaf:0:1::1d",
@@ -26,17 +26,17 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-06-21T19:58:43.765033Z",
+      "created_at": "2025-06-25T04:22:37.212166Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "16efa097-5b45-4a72-8e71-96010da12fb6",
+      "id": "b79f659b-9f0c-402e-a6f4-819ab66ba8a5",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "d690636e-0e46-44ef-baec-00788af85a2a",
-          "agent_name": "LIMALAND",
+          "agent_id": "4af09b2f-00c4-4a19-9d6d-ffc3cfc77159",
+          "agent_name": "LIMALAND1",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -51,58 +51,11 @@
       },
       "region": "global",
       "tunnel_type": "minecraft-java"
-    },
-    {
-      "active": true,
-      "alloc": {
-        "data": {
-          "assigned_domain": "officer-harper.gl.at.ply.gg",
-          "assigned_srv": null,
-          "assignment": {
-            "type": "shared-ip"
-          },
-          "id": "0ab714db-482d-402c-8efa-638da6890f26",
-          "ip_hostname": "29.ip.gl.ply.gg",
-          "ip_type": "both",
-          "port_end": 2872,
-          "port_start": 2871,
-          "region": "global",
-          "static_ip4": "147.185.221.29",
-          "static_ip6": "2602:fbaf:0:1::1d",
-          "tunnel_ip": "2602:fbaf:0:1::1d"
-        },
-        "status": "allocated"
-      },
-      "created_at": "2025-06-21T19:59:40.365198Z",
-      "disabled_reason": null,
-      "domain": null,
-      "expire_notice": null,
-      "firewall_id": null,
-      "id": "c511e6cb-e87c-4718-a5ea-11a2a098cd0b",
-      "name": "unnamed",
-      "origin": {
-        "data": {
-          "agent_id": "d690636e-0e46-44ef-baec-00788af85a2a",
-          "agent_name": "LIMALAND",
-          "local_ip": "127.0.0.1",
-          "local_port": 2871
-        },
-        "type": "agent"
-      },
-      "port_count": 1,
-      "port_type": "udp",
-      "proxy_protocol": null,
-      "ratelimit": {
-        "bytes_per_second": null,
-        "packets_per_second": null
-      },
-      "region": "global",
-      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 0,
+    "desired": 0
   }
 }
