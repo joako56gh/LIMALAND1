@@ -6,10 +6,10 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 5,
+                "Dialog": 4,
                 "Title": "CONFIRMAR",
                 "DialogColor": 14737632,
-                "OptionType": 1
+                "OptionType": 2
             }
         }
     ],
@@ -29,7 +29,7 @@
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
-    "AvailabilityDialog2": 0,
+    "AvailabilityDialog2": 1,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
@@ -39,13 +39,13 @@
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "reglass",
-    "AvailabilityDialog": 0,
+    "AvailabilityDialog": 1,
     "AvailabilityScoreboard2Type": 1,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": -1,
+    "AvailabilityDialogId": 4,
     "OptionFaction2Points": 100,
     "DialogText": "                                                                    
                                                                      
@@ -70,7 +70,7 @@ No dejes estructuras flotantes, agujeros enormes sin tapar ni construcciones fue
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
-    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog2Id": 5,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
     "AvailabilityMinPlayerLevel": 0,
@@ -83,7 +83,7 @@ No dejes estructuras flotantes, agujeros enormes sin tapar ni construcciones fue
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1750894270981L,
+        "TimePast": 1750894590295L,
         "Time": 0L,
         "Subject": ""
     }
