@@ -1077,6 +1077,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-06-25 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-25 22:04:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -3120,6 +3132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-25 22:04:09 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -3334,6 +3352,12 @@
   "mcwbyg:recipes/cypress_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-25 22:04:09 +0000"
     },
     "done": true
   },
@@ -4700,6 +4724,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/oak_support": {
+    "criteria": {
+      "has_plank": "2025-06-25 22:04:09 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/rope_zelkova_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -5190,6 +5220,12 @@
   "mcwpaths:recipes/diorite": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-25 22:04:09 +0000"
     },
     "done": true
   },
@@ -6177,6 +6213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-25 22:04:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
@@ -6409,6 +6451,12 @@
   "mcwbyg:recipes/willow_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/oak_seat": {
+    "criteria": {
+      "has_plank": "2025-06-25 22:04:09 +0000"
     },
     "done": true
   },
@@ -6651,6 +6699,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-06-25 22:04:09 +0000"
     },
     "done": true
   },
@@ -7196,6 +7250,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-06-25 22:04:09 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/cika_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
@@ -7325,6 +7385,12 @@
   "mcwbyg:recipes/rainbow_eucalyptus_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-25 22:04:09 +0000"
     },
     "done": true
   },
@@ -7888,6 +7954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-25 22:04:09 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -8095,6 +8167,12 @@
   "mcwbyg:recipes/cika_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-25 22:04:09 +0000"
     },
     "done": true
   },
