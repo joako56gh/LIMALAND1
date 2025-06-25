@@ -35,15 +35,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/lament_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/mahogany_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/lament_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -53,15 +53,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/holly_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/holly_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -161,15 +161,15 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/grass": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/jacaranda_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -408,15 +408,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/imparius_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/sythian_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/imparius_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -595,27 +595,21 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_rotten_drakkar": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/green_enchanted_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/acacia": {
+  "smallships:recipes/lotr_rotten_drakkar": {
     "criteria": {
-      "has_wood": "2025-06-24 21:59:23 +0000"
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
-  "smallships:recipes/lotr_charred_cog": {
+  "mcwfurnitures:recipes/acacia": {
     "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
+      "has_wood": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -628,6 +622,12 @@
   "mcwbyg:recipes/willow_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_cog": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -734,15 +734,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/fir_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/cherry_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -842,12 +842,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/baobab_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -860,9 +854,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_hellbark_cog": {
+  "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -890,6 +884,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_hellbark_cog": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_blossom": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -902,15 +902,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_larch_cog": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/jacaranda_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_cog": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -968,15 +968,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_mahogany_cog": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/ebony_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_mahogany_cog": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -1035,15 +1035,15 @@
     },
     "done": true
   },
-  "smallships:recipes/jungle_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/mangrove_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/jungle_dhow": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -1077,15 +1077,15 @@
     },
     "done": true
   },
-  "smallships:recipes/acacia_drakkar": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/bulbis_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -1242,27 +1242,27 @@
     },
     "done": true
   },
-  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
-    "criteria": {
-      "has_item": "2025-06-24 22:55:22 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/acacia_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:22 +0000"
     },
     "done": true
   },
-  "mcwbyg:recipes/dacite_bricks_bridge": {
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
+      "has_item": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
   "mcwbyg:recipes/ebony_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/dacite_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -1320,15 +1320,15 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/red_oak_leaves": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/zelkova_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/red_oak_leaves": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -1362,12 +1362,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_war_galley": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/aspen_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
@@ -1377,6 +1371,12 @@
   "mcwbyg:recipes/mahogany_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_war_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -1392,15 +1392,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_larch_galley": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/purpur_stone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -1465,12 +1465,6 @@
     },
     "done": true
   },
-  "smallships:recipes/jungle_drakkar": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/holly_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -1480,6 +1474,12 @@
   "mcwbyg:recipes/mahogany_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -1509,15 +1509,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/willow_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/willow_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/willow_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -1695,15 +1695,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_rowboat": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/maple_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_rowboat": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -1791,15 +1791,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/crimson/crimson_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
     },
     "done": true
   },
@@ -1827,15 +1827,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-24 22:21:58 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/mixed_oak_leaves": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -1887,15 +1887,15 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -2037,15 +2037,15 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/skeleton_balloon": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/crimson/crimson_tropical_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/skeleton_balloon": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -2243,15 +2243,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_fir_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_dhow": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -2291,27 +2291,27 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/blue_enchanted_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/sythian_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
-  "smallships:recipes/bop_dead_drakkar": {
+  "mcwbyg:recipes/blue_enchanted_four_panel_trapdoor": {
     "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
   "mcwstairs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -2369,15 +2369,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_rowboat": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_rowboat": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -2484,15 +2484,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mallorn_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/fir_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_dhow": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -2694,15 +2694,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_umbran_cog": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/ether_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_cog": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -2796,15 +2796,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-24 22:21:58 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -2820,15 +2820,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mallorn_rowboat": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/rainbow_eucalyptus_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_rowboat": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -2922,15 +2922,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/brick_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/maple_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/brick_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -2983,15 +2983,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/lament_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/ebony_stairs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/lament_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -3218,6 +3218,13 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_wood": "2025-06-24 21:59:24 +0000",
+      "has_the_recipe": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/mangrove_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
@@ -3230,10 +3237,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/sandstone": {
+  "mcwbyg:recipes/witch_hazel_paths": {
     "criteria": {
-      "has_wood": "2025-06-24 21:59:24 +0000",
-      "has_the_recipe": "2025-06-24 21:59:24 +0000"
+      "has_wood": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -3246,12 +3252,6 @@
   "mcwbyg:recipes/nightshade_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
-  "mcwbyg:recipes/witch_hazel_paths": {
-    "criteria": {
-      "has_wood": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -3273,15 +3273,15 @@
     },
     "done": true
   },
-  "mcwstairs:recipes/red_sandstone": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/witch_hazel_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/red_sandstone": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -3352,15 +3352,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/blue_enchanted_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/rainbow_eucalyptus_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/blue_enchanted_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -3376,15 +3376,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_magic_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/pine_furnitures": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_magic_dhow": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -3454,15 +3454,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mallorn_cog": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_cog": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -3502,15 +3502,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_jacaranda_rowboat": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwstairs:recipes/sandstone": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_jacaranda_rowboat": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -3550,15 +3550,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/sythian_roofs": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:23 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/sythian_roofs": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -3568,15 +3568,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-06-24 22:21:58 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/nightshade_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -3624,12 +3624,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_palm_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/zelkova_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -3639,6 +3633,12 @@
   "mcwbyg:recipes/mangrove_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_palm_dhow": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -3798,15 +3798,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_drakkar": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/cika_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -3840,15 +3840,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_galley": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/nightshade_paths": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -3900,15 +3900,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/jacaranda_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/jacaranda_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/jacaranda_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -3996,9 +3996,10 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+  "mcwbyg:recipes/redwood_windows": {
     "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
+      "has_wood": "2025-06-24 21:59:24 +0000",
+      "has_the_recipe": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -4008,10 +4009,9 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/redwood_windows": {
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
     "criteria": {
-      "has_wood": "2025-06-24 21:59:24 +0000",
-      "has_the_recipe": "2025-06-24 21:59:23 +0000"
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -4063,15 +4063,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/sythian_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_dhow": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -4148,15 +4148,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_fir_brigg": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/warped/warped_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_brigg": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -4196,15 +4196,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_hellbark_drakkar": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/blue_enchanted_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -4262,6 +4262,12 @@
     },
     "done": true
   },
+  "mcwbyg:recipes/ether_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_rowboat": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -4271,12 +4277,6 @@
   "smallships:recipes/lotr_fir_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
-  "mcwbyg:recipes/ether_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -4298,19 +4298,13 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_charred_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/orange_oak_leaves": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
-  "smallships:recipes/bop_magic_brigg": {
+  "smallships:recipes/lotr_charred_dhow": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
     },
@@ -4322,9 +4316,9 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/red_rock_roofs": {
+  "smallships:recipes/bop_magic_brigg": {
     "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -4334,13 +4328,13 @@
     },
     "done": true
   },
-  "smallships:recipes/dark_oak_galley": {
+  "mcwbyg:recipes/red_rock_roofs": {
     "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_drakkar": {
+  "smallships:recipes/dark_oak_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
     },
@@ -4349,6 +4343,12 @@
   "mcwbyg:recipes/cika_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -4400,15 +4400,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_redwood_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/mangrove_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_dhow": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -4436,15 +4436,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/lament_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/rainbow_eucalyptus_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/lament_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -4761,21 +4761,33 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_cedar_drakkar": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
+  "smallships:recipes/lotr_cedar_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/maple_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/mahogany_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -4788,18 +4800,6 @@
   "smallships:recipes/bop_dead_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
-  "mcwbyg:recipes/mahogany_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -4851,15 +4851,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_war_galley": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/nightshade_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_war_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -4977,15 +4977,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/redwood_furnitures": {
-    "criteria": {
-      "has_wood": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/baobab_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/redwood_furnitures": {
+    "criteria": {
+      "has_wood": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -5019,27 +5019,21 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/palm_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
-  "mcwbyg:recipes/palm_log_bridge_middle": {
+  "mcwbyg:recipes/palm_paper_trapdoor": {
     "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
-  "smallships:recipes/birch_rowboat": {
+  "mcwbyg:recipes/palm_log_bridge_middle": {
     "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
+      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -5064,6 +5058,12 @@
   "mcwbyg:recipes/rope_fir_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/birch_rowboat": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -5139,15 +5139,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pear_brigg": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/ebony_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_brigg": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -5187,15 +5187,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_granite_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -5283,15 +5283,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_mahogany_brigg": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/blue_enchanted_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_mahogany_brigg": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -5301,15 +5301,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/holly_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/holly_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -5319,15 +5319,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-24 22:21:58 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/rope_nightshade_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -5373,15 +5373,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_larch_war_galley": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/rainbow_eucalyptus_furnitures": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_war_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -5463,15 +5463,15 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/christmas_pack": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/sythian_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/christmas_pack": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -5553,15 +5553,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/redwood_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -5643,15 +5643,15 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/warped_seat": {
-    "criteria": {
-      "has_plank": "2025-06-24 22:55:22 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_larch_rowboat": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/warped_seat": {
+    "criteria": {
+      "has_plank": "2025-06-24 22:55:22 +0000"
     },
     "done": true
   },
@@ -5727,15 +5727,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-06-24 22:04:54 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_cypress_war_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-24 22:04:54 +0000"
     },
     "done": true
   },
@@ -5854,15 +5854,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_brigg": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/holly_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_brigg": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -5872,15 +5872,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_larch_drakkar": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -5902,15 +5902,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/nether_bricks_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:23 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/green_enchanted_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -5974,15 +5974,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/fir_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -6023,15 +6023,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/holly_furnitures": {
-    "criteria": {
-      "has_wood": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/holly_furnitures": {
+    "criteria": {
+      "has_wood": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -6041,15 +6041,15 @@
     },
     "done": true
   },
-  "mcwlights:recipes/sea_lantern_slab": {
-    "criteria": {
-      "has_wood": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/redwood_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/sea_lantern_slab": {
+    "criteria": {
+      "has_wood": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -6125,15 +6125,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_charred_rowboat": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/jacaranda_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_rowboat": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -6155,12 +6155,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
-    "criteria": {
-      "has_leather": "2025-06-24 22:04:54 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/fir_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
@@ -6173,9 +6167,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-24 22:04:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_cherry_brigg": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/ether_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -6183,12 +6189,6 @@
     "criteria": {
       "has_wood": "2025-06-24 21:59:25 +0000",
       "has_the_recipe": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
-  "mcwbyg:recipes/ether_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -6204,15 +6204,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/warped/warped_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -6228,15 +6228,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lebethron_war_galley": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/spruce_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_war_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -6252,15 +6252,15 @@
     },
     "done": true
   },
-  "smallships:recipes/dark_oak_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/print_swamp": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/dark_oak_dhow": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -6354,15 +6354,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/cryptic_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -6390,15 +6390,15 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/mangrove_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -6438,15 +6438,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/cherry_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/fir_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/cherry_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -6474,15 +6474,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/holly_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/iron_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/holly_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -6566,27 +6566,21 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_fir_cog": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/cornered_cobweb": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
-  "smallships:recipes/lotr_fir_rowboat": {
+  "smallships:recipes/lotr_fir_cog": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+  "smallships:recipes/lotr_fir_rowboat": {
     "criteria": {
-      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -6602,6 +6596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-24 22:14:43 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/ebony_paths": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
@@ -6614,15 +6614,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-24 22:21:58 +0000"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -6680,15 +6680,15 @@
     },
     "done": true
   },
-  "smallships:recipes/birch_dhow": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/spooky_cobweb": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/birch_dhow": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -6758,15 +6758,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/ether_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -6818,15 +6818,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-06-24 22:35:58 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/ether_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 22:35:58 +0000"
     },
     "done": true
   },
@@ -6974,15 +6974,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mallorn_brigg": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/one_way_glass": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_brigg": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -7004,19 +7004,13 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pear_rowboat": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
-  "smallships:recipes/lotr_pear_galley": {
+  "smallships:recipes/lotr_pear_rowboat": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
     },
@@ -7025,6 +7019,12 @@
   "mcwbyg:recipes/holly_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -7138,6 +7138,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/standing_broomstick": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/aspen_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
@@ -7147,12 +7153,6 @@
   "mcwpaths:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/standing_broomstick": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -7168,15 +7168,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/blue_enchanted_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/flat_gravestone": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/blue_enchanted_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -7282,15 +7282,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_galley": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/aspen_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -7360,21 +7360,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/fir_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/sythian_furnitures": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
-  "smallships:recipes/envi_willow_galley": {
+  "mcwbyg:recipes/fir_swamp_trapdoor": {
     "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -7387,6 +7381,12 @@
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -7444,15 +7444,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_green_oak_brigg": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/red_nether_bricks": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_green_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -7720,15 +7720,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_brigg": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/jacaranda_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_brigg": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -7756,15 +7756,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/palm_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -7786,15 +7786,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/mahogany_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/maple_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/mahogany_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -7906,15 +7906,15 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/ghost_wall_deco_1": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/jungle/jungle_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -7942,15 +7942,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_fir_war_galley": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/warped": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_war_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -8008,15 +8008,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_cypress_rowboat": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_rowboat": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -8094,15 +8094,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/redwood_log_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/maple_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/redwood_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -8124,15 +8124,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_mahogany_galley": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/cypress_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_mahogany_galley": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -8172,15 +8172,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/slanted_gravestone": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -8220,15 +8220,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/mangrove_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/rope_ether_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/mangrove_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -8287,6 +8287,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_taiga": "2025-06-24 21:59:25 +0000",
@@ -8294,12 +8300,6 @@
       "village_snowy": "2025-06-24 21:59:25 +0000",
       "village_desert": "2025-06-24 21:59:25 +0000",
       "village_plains": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -8333,15 +8333,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_palm_drakkar": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/nightshade_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_palm_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -8442,15 +8442,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/redwood_blossom_trapdoor": {
-    "criteria": {
-      "has_plankss": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/redwood_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/redwood_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -8472,15 +8472,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/cika_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/rainbow_eucalyptus_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/cika_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -8508,15 +8508,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/aspen_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -8544,15 +8544,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/square_gravestone": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -8611,15 +8611,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/prismarine_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/redwood_paths": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/prismarine_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -8641,15 +8641,15 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/carved_shocked_pumpkin": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/redwood_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_shocked_pumpkin": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -8683,15 +8683,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/ether_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/warped/warped_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/ether_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -8701,15 +8701,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/cherry_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/mahogany_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/cherry_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -8877,15 +8877,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/aspen_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/zelkova_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/aspen_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -8907,6 +8907,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/ether_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -8916,12 +8922,6 @@
   "mcwbyg:recipes/red_rock_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:22 +0000"
     },
     "done": true
   },
@@ -9070,15 +9070,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_cedar_cog": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cedar_cog": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -9094,15 +9094,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/fir_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/zelkova_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/fir_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -9124,15 +9124,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/sythian_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
@@ -9470,15 +9470,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/witch_hazel_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -9512,15 +9512,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_cherry_rowboat": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/orange_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_rowboat": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -9590,15 +9590,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/sythian_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:25 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/sythian_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:25 +0000"
     },
     "done": true
   },
@@ -9632,15 +9632,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-24 22:43:28 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-24 22:43:28 +0000"
     },
     "done": true
   },
@@ -9795,15 +9795,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_fir_cog": {
-    "criteria": {
-      "in_water": "2025-06-24 22:04:01 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/bulbis_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_cog": {
+    "criteria": {
+      "in_water": "2025-06-24 22:04:01 +0000"
     },
     "done": true
   },
@@ -9831,15 +9831,15 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/oak_palisade": {
-    "criteria": {
-      "has_log": "2025-06-24 22:04:34 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/jacaranda_paths": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-06-24 22:04:34 +0000"
     },
     "done": true
   },
@@ -10054,12 +10054,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-06-24 22:04:54 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/cherry_paths": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000"
@@ -10069,6 +10063,12 @@
   "mcwbyg:recipes/sythian_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-24 22:04:54 +0000"
     },
     "done": true
   },
@@ -10138,16 +10138,16 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:24 +0000",
       "has_the_recipe": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/stone_brick_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-24 21:59:23 +0000"
     },
     "done": true
   },
@@ -10199,15 +10199,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-06-24 22:21:58 +0000"
-    },
-    "done": true
-  },
   "mcwbyg:recipes/bulbis_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-24 22:21:58 +0000"
     },
     "done": true
   },
@@ -10247,15 +10247,15 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/mahogany_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-24 21:59:24 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/prismarine_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/mahogany_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-24 21:59:24 +0000"
     },
     "done": true
   },
