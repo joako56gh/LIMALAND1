@@ -7508,3 +7508,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 22:27:48.319] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [25Jun2025 22:28:01.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Amateur Archaeologist]
 [25Jun2025 22:30:34.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [A Seedy Place]
+[25Jun2025 22:32:48.286] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:32:48.287] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:32:48.288] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:32:48.289] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 22:32:48.311] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Jun2025 22:33:12.603] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2550, l='ServerLevel[world]', x=981.58, y=62.54, z=1735.92] died, message: 'Villager was slain by JOA_KINGSITO'
+[25Jun2025 22:33:12.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Knowledge of Death]
+[25Jun2025 22:33:12.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Neighborhood Brawl]
+[25Jun2025 22:34:56.558] [Server thread/DEBUG] [com.dairymoose.modernlife.tileentities.CCTVCameraTileEntity/]: set position: add to set: com.dairymoose.modernlife.tileentities.CCTVCameraTileEntity@198b6d
+[25Jun2025 22:37:48.286] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:37:48.287] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:37:48.287] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[25Jun2025 22:37:48.288] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Jun2025 22:37:48.309] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

@@ -2584,3 +2584,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 22:27:15.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Creative Mode]
 [25Jun2025 22:28:01.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Amateur Archaeologist]
 [25Jun2025 22:30:34.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [A Seedy Place]
+[25Jun2025 22:33:12.603] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2550, l='ServerLevel[world]', x=981.58, y=62.54, z=1735.92] died, message: 'Villager was slain by JOA_KINGSITO'
+[25Jun2025 22:33:12.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Knowledge of Death]
+[25Jun2025 22:33:12.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Neighborhood Brawl]

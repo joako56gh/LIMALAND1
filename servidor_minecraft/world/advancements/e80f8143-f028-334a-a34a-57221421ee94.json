@@ -709,6 +709,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-06-25 22:33:12 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/cypress_stairs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -4532,6 +4538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-25 22:31:06 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/blue_enchanted_trapdoors": {
     "criteria": {
       "has_wood": "2025-06-24 21:59:22 +0000"
@@ -4790,6 +4802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-25 22:28:24 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/cypress_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -4799,6 +4817,12 @@
   "mcwbyg:recipes/green_enchanted_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-25 22:33:12 +0000"
     },
     "done": true
   },
@@ -5394,6 +5418,12 @@
   "mcwbyg:recipes/blue_enchanted_stairs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-25 22:28:24 +0000"
     },
     "done": true
   },
@@ -9373,6 +9403,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-25 22:28:01 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/green_enchanted_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
@@ -9522,6 +9558,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-25 22:30:34 +0000"
     },
     "done": true
   },
@@ -9691,6 +9733,12 @@
   "mcwbyg:recipes/witch_hazel_roofs": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-25 22:31:06 +0000"
     },
     "done": true
   },
