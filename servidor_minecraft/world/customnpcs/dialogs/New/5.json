@@ -2,6 +2,16 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 5,
+                "Title": "CONFIRMAR",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        }
     ],
     "AvailabilityScoreboardType": 1,
     "DialogHideNPC": 0b,
@@ -37,7 +47,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Reglas Oficiales de LimaLand
+    "DialogText": "                                                                    
+                                                                     
+                                                                       
+                                                                       
+                                                                       
+                                                                       Reglas Oficiales de LimaLand
 
 1. PvP solo con consentimiento
 Puedes pelear con otros jugadores, pero solo si ambos están de acuerdo.
@@ -48,14 +63,10 @@ Las travesuras están permitidas, pero deben ser divertidas y reversibles. Nada 
 3. No al griefing ni al robo
 Está prohibido destruir construcciones ajenas, robar cofres, matar animales o dañar cultivos de otros jugadores sin permiso.
 
-4. Usa mods y comandos permitidos
-Solo se permite el uso de los mods, datapacks y comandos que el servidor ha autorizado. Hacks, exploits o mods injustos resultarán en sanción inmediata.
-
-5. Construcciones responsables
+4. Construcciones responsables
 No dejes estructuras flotantes, agujeros enormes sin tapar ni construcciones fuera de lugar que arruinen el entorno. Mantén el mundo limpio y estético.
 
-6. Roleo opcional pero respetado
-Si un jugador está roleando (actuando como su personaje), respeta ese espacio. No interrumpas escenas ni arruines momentos intencionalmente.",
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -72,7 +83,7 @@ Si un jugador está roleando (actuando como su personaje), respeta ese espacio. 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1750893562203L,
+        "TimePast": 1750894270981L,
         "Time": 0L,
         "Subject": ""
     }

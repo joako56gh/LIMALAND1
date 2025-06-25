@@ -2587,3 +2587,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 22:33:12.603] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2550, l='ServerLevel[world]', x=981.58, y=62.54, z=1735.92] died, message: 'Villager was slain by JOA_KINGSITO'
 [25Jun2025 22:33:12.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Knowledge of Death]
 [25Jun2025 22:33:12.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO has made the advancement [Neighborhood Brawl]
+[25Jun2025 23:24:52.001] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO lost connection: Timed out
+[25Jun2025 23:24:52.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO left the game
+[25Jun2025 23:24:52.003] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO
+[25Jun2025 23:25:02.020] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e9fffac
+[25Jun2025 23:25:02.054] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JOA_KINGSITO[/127.37.118.126:44645] logged in with entity id 4981 at (904.6453934094731, 65.0, 1838.8526003646016)
+[25Jun2025 23:25:02.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO joined the game
+[25Jun2025 23:25:02.096] [Server thread/INFO] [Waila/]: Syncing config to JOA_KINGSITO (e80f8143-f028-334a-a34a-57221421ee94)
+[25Jun2025 23:25:03.755] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JOA_KINGSITO (18)
+[25Jun2025 23:25:03.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO
+[25Jun2025 23:25:05.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e80f8143-f028-334a-a34a-57221421ee94
+[25Jun2025 23:25:06.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e80f8143-f028-334a-a34a-57221421ee94
+[25Jun2025 23:25:06.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO (e80f8143-f028-334a-a34a-57221421ee94) successfully connected to voice chat

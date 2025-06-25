@@ -6,8 +6,8 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
-                "Title": "Talk",
+                "Dialog": 4,
+                "Title": "INICIAR LA AVENTURA",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -79,7 +79,7 @@ LimaLand los recibe con los brazos abiertos.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1750893616551L,
+        "TimePast": 1750894257401L,
         "Time": 0L,
         "Subject": ""
     }
