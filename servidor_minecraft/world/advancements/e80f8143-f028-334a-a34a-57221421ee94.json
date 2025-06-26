@@ -1494,6 +1494,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-06-25 23:56:44 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/yellow_oak_leaves": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -2004,6 +2010,12 @@
   "smallships:recipes/bop_magic_cog": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-25 23:56:44 +0000"
     },
     "done": true
   },
@@ -4520,6 +4532,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-06-25 23:54:52 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_willow_cog": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -4739,6 +4757,12 @@
   "decorative_blocks:recipes/decorations/oak_support": {
     "criteria": {
       "has_plank": "2025-06-25 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-25 23:56:44 +0000"
     },
     "done": true
   },
@@ -5070,6 +5094,12 @@
   "mcwroofs:recipes/warped": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-25 23:56:44 +0000"
     },
     "done": true
   },
@@ -5541,6 +5571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-25 23:54:52 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/cypress_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:24 +0000"
@@ -5721,6 +5757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-25 23:56:44 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/blue_enchanted_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:23 +0000"
@@ -5796,6 +5838,12 @@
   "mcwbyg:recipes/sythian_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-06-25 23:56:44 +0000"
     },
     "done": true
   },
@@ -6590,6 +6638,12 @@
   "smallships:recipes/oak_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-25 23:56:44 +0000"
     },
     "done": true
   },
@@ -7906,6 +7960,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-06-25 23:56:44 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/spruce_rowboat": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -8302,6 +8362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-25 23:56:44 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 21:59:24 +0000"
@@ -8452,6 +8518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-25 23:56:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 21:59:25 +0000"
@@ -8461,6 +8533,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-25 04:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-25 23:56:44 +0000"
     },
     "done": true
   },
@@ -9508,7 +9586,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-24 22:03:30 +0000",
+      "minecraft:desert": "2025-06-25 23:51:36 +0000",
+      "minecraft:beach": "2025-06-25 23:51:21 +0000",
       "minecraft:river": "2025-06-24 22:03:14 +0000",
+      "minecraft:savanna": "2025-06-25 23:51:01 +0000",
       "minecraft:plains": "2025-06-24 22:01:28 +0000"
     },
     "done": false
@@ -10304,6 +10385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-25 23:56:44 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_war_galley": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
@@ -10572,6 +10659,12 @@
   "smallships:recipes/bop_willow_drakkar": {
     "criteria": {
       "in_water": "2025-06-24 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-06-25 23:56:44 +0000"
     },
     "done": true
   },

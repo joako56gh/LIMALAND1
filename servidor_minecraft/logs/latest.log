@@ -2624,3 +2624,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jun2025 23:51:20.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Teleported JOA_KINGSITO to -2399.5, 66.54833209662279, -367.5]
 [25Jun2025 23:51:33.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Spectator Mode]
 [25Jun2025 23:51:42.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JOA_KINGSITO: Set own game mode to Creative Mode]
+[25Jun2025 23:52:14.958] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Unknown structure piece id: minecraft:whpiece
+[25Jun2025 23:54:03.603] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO moved too quickly! 4.033311792148197,0.0,9.960886728049445
+[25Jun2025 23:54:07.360] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO moved too quickly! -2.3694245154217697,-0.48466597929729005,10.18356576402175
