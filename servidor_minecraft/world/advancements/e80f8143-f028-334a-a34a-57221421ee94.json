@@ -9586,6 +9586,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-24 22:03:30 +0000",
+      "minecraft:taiga_hills": "2025-06-25 23:59:52 +0000",
       "minecraft:desert": "2025-06-25 23:51:36 +0000",
       "minecraft:beach": "2025-06-25 23:51:21 +0000",
       "minecraft:river": "2025-06-24 22:03:14 +0000",
