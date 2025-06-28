@@ -7521,6 +7521,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-28 03:37:01 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/zelkova_planks_roofs": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:55 +0000"
@@ -9953,6 +9959,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2025-06-27 02:37:45 +0000",
+      "minecraft:forest": "2025-06-28 03:34:21 +0000",
       "minecraft:taiga": "2025-06-27 02:30:48 +0000",
       "minecraft:river": "2025-06-27 02:30:34 +0000",
       "minecraft:plains": "2025-06-27 02:20:56 +0000"

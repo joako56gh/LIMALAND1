@@ -7206,3 +7206,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 03:33:01.488] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO7 moved too quickly! -10.03623314401193,-0.5764407054569602,1.6029596757032323
 [28Jun2025 03:33:01.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2571ms or 51 ticks behind
 [28Jun2025 03:33:01.682] [Worker-Main-2/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[28Jun2025 03:35:04.616] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 03:35:04.617] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 03:35:04.618] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 03:35:04.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jun2025 03:35:04.652] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jun2025 03:37:30.950] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[28Jun2025 03:37:31.098] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[28Jun2025 03:37:31.099] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[28Jun2025 03:37:31.136] [Worker-Main-2/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[28Jun2025 03:37:31.137] [Worker-Main-2/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[28Jun2025 03:39:02.682] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1097]: net.minecraft.item.crafting.FurnaceRecipe@63313c85
+[28Jun2025 03:39:32.628] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1097]: net.minecraft.item.crafting.SmokingRecipe@18d7110f
+[28Jun2025 03:40:04.610] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 03:40:04.611] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 03:40:04.612] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 03:40:04.614] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jun2025 03:40:04.646] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
