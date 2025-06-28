@@ -7250,3 +7250,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 04:00:07.664] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
 [28Jun2025 04:00:07.665] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [28Jun2025 04:00:07.691] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jun2025 04:05:07.656] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 04:05:07.657] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 04:05:07.660] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 04:05:07.661] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jun2025 04:05:07.684] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jun2025 04:06:38.358] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO7 moved too quickly! -8.239536660572384,-4.946764888502514,3.523111323535659
+[28Jun2025 04:09:52.659] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1097]: net.minecraft.item.crafting.SmokingRecipe@672bbb5f
+[28Jun2025 04:10:07.656] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 04:10:07.657] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 04:10:07.658] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[28Jun2025 04:10:07.659] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Jun2025 04:10:07.684] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Jun2025 04:11:50.872] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JOA_KINGSITO7: {disabled=true, disconnected=false, uuid=1457f291-d123-3a93-b230-242c3d4ef6de, name=JOA_KINGSITO7, group=null}
+[28Jun2025 04:12:22.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 has made the advancement [Take Aim]

@@ -685,6 +685,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-28 04:04:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley_block": {
     "criteria": {
       "has_plank": "2025-06-27 02:29:37 +0000"
@@ -1004,6 +1010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/bulbis_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:54 +0000"
@@ -1206,6 +1218,12 @@
   "smallships:recipes/bop_dead_brigg": {
     "criteria": {
       "in_water": "2025-06-27 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
     },
     "done": true
   },
@@ -1637,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-06-27 02:59:54 +0000"
@@ -1789,6 +1813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-28 03:56:31 +0000"
@@ -1900,6 +1930,12 @@
   "mcwbyg:recipes/skyris_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
     },
     "done": true
   },
@@ -2116,6 +2152,12 @@
   "smallships:recipes/envi_wisteria_rowboat": {
     "criteria": {
       "in_water": "2025-06-27 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
     },
     "done": true
   },
@@ -2389,6 +2431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_tropical_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:54 +0000"
@@ -2398,6 +2446,12 @@
   "mcwholidays:recipes/skeleton_balloon": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_plank": "2025-06-28 04:04:16 +0000"
     },
     "done": true
   },
@@ -2997,6 +3051,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_gold": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-06-27 02:29:36 +0000"
@@ -3067,6 +3127,12 @@
   "mcwbyg:recipes/lament_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-28 04:04:49 +0000"
     },
     "done": true
   },
@@ -3674,6 +3740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/willow_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:56 +0000"
@@ -3683,6 +3755,12 @@
   "mcwbyg:recipes/zelkova_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-28 04:02:23 +0000"
     },
     "done": true
   },
@@ -3929,6 +4007,12 @@
   "mcwbyg:recipes/jacaranda_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2025-06-28 04:04:49 +0000"
     },
     "done": true
   },
@@ -4237,6 +4321,12 @@
   "smallships:recipes/lotr_mallorn_war_galley": {
     "criteria": {
       "in_water": "2025-06-27 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_item": "2025-06-28 04:04:49 +0000"
     },
     "done": true
   },
@@ -5315,6 +5405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:55 +0000"
@@ -5961,6 +6057,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-06-27 02:38:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-28 04:02:35 +0000"
     },
     "done": true
   },
@@ -6856,6 +6958,12 @@
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_plank": "2025-06-28 04:04:16 +0000"
     },
     "done": true
   },
@@ -8280,6 +8388,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/palm_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-27 02:20:55 +0000"
@@ -8922,6 +9036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-27 02:35:30 +0000"
@@ -8952,6 +9072,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candelabra": {
+    "criteria": {
+      "has_item": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/ghost_wall_deco_2": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:55 +0000"
@@ -8979,6 +9105,12 @@
   "mcwstairs:recipes/acacia": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-28 04:04:49 +0000"
     },
     "done": true
   },
@@ -9168,6 +9300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/redwood_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:55 +0000"
@@ -9189,6 +9327,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-28 04:06:09 +0000"
     },
     "done": true
   },
@@ -10017,6 +10161,7 @@
       "minecraft:forest": "2025-06-28 03:34:21 +0000",
       "minecraft:taiga": "2025-06-27 02:30:48 +0000",
       "minecraft:river": "2025-06-27 02:30:34 +0000",
+      "minecraft:wooded_mountains": "2025-06-28 04:08:38 +0000",
       "minecraft:plains": "2025-06-27 02:20:56 +0000"
     },
     "done": false
@@ -10315,6 +10460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-27 03:19:41 +0000"
@@ -10519,9 +10670,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_plank": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-27 02:36:58 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-06-28 04:04:16 +0000"
     },
     "done": true
   },
@@ -11535,6 +11698,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_item": "2025-06-28 04:04:16 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_willow_brigg": {
     "criteria": {
       "in_water": "2025-06-27 02:33:42 +0000"
@@ -11598,6 +11767,12 @@
   "mcwbyg:recipes/holly_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 04:04:16 +0000"
     },
     "done": true
   },

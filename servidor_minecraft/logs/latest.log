@@ -2576,3 +2576,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 03:55:52.691] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
 [28Jun2025 03:56:53.882] [Worker-Main-22/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
 [28Jun2025 03:58:43.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 has made the advancement [Isn't It Iron Pick]
+[28Jun2025 04:06:38.358] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO7 moved too quickly! -8.239536660572384,-4.946764888502514,3.523111323535659
+[28Jun2025 04:09:52.659] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1097]: net.minecraft.item.crafting.SmokingRecipe@672bbb5f
+[28Jun2025 04:12:22.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 has made the advancement [Take Aim]
