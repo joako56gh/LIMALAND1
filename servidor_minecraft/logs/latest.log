@@ -2569,3 +2569,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 03:37:31.137] [Worker-Main-2/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
 [28Jun2025 03:39:02.682] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1097]: net.minecraft.item.crafting.FurnaceRecipe@63313c85
 [28Jun2025 03:39:32.628] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1097]: net.minecraft.item.crafting.SmokingRecipe@18d7110f
+[28Jun2025 03:52:16.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 has made the advancement [Ice Bucket Challenge]
