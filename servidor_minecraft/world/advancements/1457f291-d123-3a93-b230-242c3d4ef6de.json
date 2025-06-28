@@ -1064,6 +1064,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-28 03:58:43 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/rainbow_eucalyptus_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:55 +0000"
@@ -1595,6 +1601,12 @@
     },
     "done": true
   },
+  "morevanillaarmor:recipes/morevanillaarmor/bone_boots": {
+    "criteria": {
+      "already_crafted": "2025-06-28 03:52:21 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/yellow_oak_leaves": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:56 +0000"
@@ -1774,6 +1786,12 @@
   "smallships:recipes/bop_hellbark_rowboat": {
     "criteria": {
       "in_water": "2025-06-27 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-28 03:56:31 +0000"
     },
     "done": true
   },
@@ -2419,6 +2437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-28 03:58:57 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/jacaranda_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:56 +0000"
@@ -2847,6 +2871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-28 03:56:31 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/skyris_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:55 +0000"
@@ -3097,6 +3127,12 @@
   "mcwbyg:recipes/fir_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-27 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:52:16 +0000"
     },
     "done": true
   },
@@ -3379,6 +3415,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-27 02:59:54 +0000",
+      "minecraft:spider": "2025-06-28 03:56:31 +0000",
       "minecraft:creeper": "2025-06-27 03:00:42 +0000",
       "minecraft:zombie": "2025-06-27 03:15:51 +0000"
     },
@@ -3880,6 +3917,12 @@
   "mcwbyg:recipes/aspen_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-28 03:56:31 +0000"
     },
     "done": true
   },
@@ -8423,6 +8466,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-28 03:52:16 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/baobab_furnitures": {
     "criteria": {
       "has_wood": "2025-06-27 02:20:55 +0000"
@@ -9297,6 +9346,12 @@
   "mcwtrpdoors:recipes/crimson/crimson_barn_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-28 03:56:31 +0000"
     },
     "done": true
   },
@@ -10681,6 +10736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:52:16 +0000"
+    },
+    "done": true
+  },
   "mcwbyg:recipes/maple_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:53 +0000"
@@ -10969,6 +11030,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 03:54:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-06-27 02:20:56 +0000"
@@ -10978,6 +11045,12 @@
   "smallships:recipes/bop_willow_rowboat": {
     "criteria": {
       "in_water": "2025-06-27 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-28 03:56:31 +0000"
     },
     "done": true
   },
