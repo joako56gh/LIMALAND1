@@ -2579,3 +2579,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 04:06:38.358] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO7 moved too quickly! -8.239536660572384,-4.946764888502514,3.523111323535659
 [28Jun2025 04:09:52.659] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1097]: net.minecraft.item.crafting.SmokingRecipe@672bbb5f
 [28Jun2025 04:12:22.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 has made the advancement [Take Aim]
+[28Jun2025 04:15:19.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 is bleeding...
+[28Jun2025 04:15:19.580] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 04:15:19.587] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 04:15:24.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 was turned into KFC by Fire Dragon
+[28Jun2025 04:15:36.574] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Baldvin'/7727, l='ServerLevel[world]', x=831.98, y=73.50, z=2144.51] died, message: 'Baldvin was pricked to death'
+[28Jun2025 04:19:19.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 is bleeding...
+[28Jun2025 04:19:19.523] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 04:19:19.537] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 04:19:24.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 fell from a high place
+[28Jun2025 04:23:40.149] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1097]: net.minecraft.item.crafting.SmokingRecipe@672bbb5f
+[28Jun2025 04:26:16.571] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JOA_KINGSITO7 lost connection: Disconnected
+[28Jun2025 04:26:16.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JOA_KINGSITO7 left the game
+[28Jun2025 04:26:16.577] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO7
+[28Jun2025 04:26:56.769] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[28Jun2025 04:26:56.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jun2025 04:26:56.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jun2025 04:26:56.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jun2025 04:26:56.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jun2025 04:26:57.133] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jun2025 04:26:57.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jun2025 04:26:57.134] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jun2025 04:26:57.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jun2025 04:26:57.135] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jun2025 04:26:57.214] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jun2025 04:26:57.272] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jun2025 04:26:57.273] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

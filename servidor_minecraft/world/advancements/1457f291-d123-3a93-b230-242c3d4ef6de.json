@@ -2661,6 +2661,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-28 04:12:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-06-27 02:29:36 +0000"
@@ -3157,6 +3163,12 @@
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-27 02:36:58 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-06-28 04:16:00 +0000"
     },
     "done": true
   },
@@ -3899,6 +3911,12 @@
   "mcwbyg:recipes/pine_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-27 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-06-28 04:19:56 +0000"
     },
     "done": true
   },
@@ -6333,6 +6351,12 @@
   "mcwpaths:recipes/andesite": {
     "criteria": {
       "has_wood": "2025-06-27 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-06-28 04:12:04 +0000"
     },
     "done": true
   },
@@ -9860,6 +9884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 04:16:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-27 02:38:55 +0000"
@@ -10162,6 +10192,7 @@
       "minecraft:taiga": "2025-06-27 02:30:48 +0000",
       "minecraft:river": "2025-06-27 02:30:34 +0000",
       "minecraft:wooded_mountains": "2025-06-28 04:08:38 +0000",
+      "minecraft:wooded_hills": "2025-06-28 04:17:25 +0000",
       "minecraft:plains": "2025-06-27 02:20:56 +0000"
     },
     "done": false
@@ -10641,6 +10672,7 @@
       "sweet_berries": "2025-06-27 02:33:20 +0000",
       "cooked_beef": "2025-06-27 03:22:34 +0000",
       "porkchop": "2025-06-27 02:43:38 +0000",
+      "apple": "2025-06-28 04:15:14 +0000",
       "potato": "2025-06-27 03:00:15 +0000",
       "bread": "2025-06-27 03:06:23 +0000"
     },
@@ -11391,6 +11423,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-06-28 04:16:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-27 03:19:41 +0000"
@@ -11503,6 +11541,12 @@
   "smallships:recipes/bop_dead_cog": {
     "criteria": {
       "in_water": "2025-06-27 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 04:16:00 +0000"
     },
     "done": true
   },
